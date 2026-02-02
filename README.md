@@ -9,4 +9,5 @@ It contains:
 6. spark_ecommerce_analytics.ipynb, which contails all the analysis required to use spark.
 all the files are Jupiter Notebook,
 n.b: couldn't upload the whole project due to the size issue, any required proof or document by the professor will be provided;
+All Script used during this project are all in above files.
 
