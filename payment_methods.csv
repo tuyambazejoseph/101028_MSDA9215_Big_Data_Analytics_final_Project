@@ -1,0 +1,7 @@
+payment_method,transaction_count,total_revenue,avg_transaction
+credit_card,124847,117386917.96,940.25
+paypal,124707,117381032.67,941.25
+bank_transfer,79687,87224799.92,1094.59
+gift_card,79586,87087384.48,1094.26
+apple_pay,45621,30858174.33,676.4
+crypto,45552,30727210.7,674.55
